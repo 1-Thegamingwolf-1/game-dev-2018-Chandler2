@@ -1,0 +1,9 @@
+
+     input-output
+     variables 
+     loops
+     arrays
+     decisions 
+     funcions
+     objects
+     classes
